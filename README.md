@@ -1,7 +1,9 @@
-# Bash scripts I wrote for uses described in header
+# Bash scripts I wrote for everyday use 
+
+Read header of each script for description/use
 
 ## How to run:
 
-=> go to relevant directory
+> Go to relevant directory
 
-% ./<bash_script>.sh
+> % ./<bash_script>.sh
