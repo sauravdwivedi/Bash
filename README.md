@@ -1,6 +1,6 @@
 # Bash scripts I wrote for uses described in header
 
-# How to run:
+## How to run:
 
 => go to relevant directory
 
